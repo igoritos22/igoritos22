@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igoritos22
 - 👀 I’m interested in DevOps tecniches, methodologies and another tips and tricks 
-- 🌱 I’m currently learning about IaC with Terraform and Ansible. If you help me with this.. you're welcome
+- 🌱 I’m currently learning about IaC with Terraform and Ansible. Could You help me with this?
 
 
 <!---
